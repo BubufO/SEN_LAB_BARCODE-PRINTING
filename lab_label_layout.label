@@ -25,9 +25,9 @@
 			<Verticalized>False</Verticalized>
 			<StyledText>
 				<Element>
-					<String xml:space="preserve">{{Name}}
-{{Sample}}
-{{Date}}</String>
+					<String xml:space="preserve">Name
+Sample
+Date</String>
 					<Attributes>
 						<Font Family="Arial" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False" />
 						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
